@@ -1,0 +1,6 @@
+baseURL = "http://paycast.ru/"
+languageCode = "ru-ru"
+title = "Paycast"
+newContentEditor = "nano"
+theme = "minimal"
+pygmentsStyle = "native"
