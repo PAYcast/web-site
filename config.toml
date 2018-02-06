@@ -1,6 +1,15 @@
 baseURL = "http://paycast.ru/"
 languageCode = "ru-ru"
 title = "Paycast"
-newContentEditor = "nano"
 theme = "minimal"
 pygmentsStyle = "native"
+
+[[menu.main]]
+    url = "/"
+    name = "Домой"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Архив выпусков"
+    weight = 2
