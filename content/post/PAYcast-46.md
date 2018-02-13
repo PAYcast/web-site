@@ -3,6 +3,8 @@ title: "PAYcast 46"
 date: 2012-05-21T04:44:30Z
 tags: [ "Node.js", "ACM ICPC", "Lenya", "Lenochka", "Touche", "Samsung", ".NET", "diablo", "Disney", "ACM", "Instacast", "PAYcast", "Galaxy" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast46.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Говорим о давно вышедшем <a href="http://www.mobile-review.com/review/samsung-galaxy-s3-fl2.shtml" target="_blank">Galaxy S III</a></li>

@@ -3,6 +3,8 @@ title: "PAYcast 50 (Anniversary)"
 date: 2012-09-03T13:39:05Z
 tags: [ "MongoDb", "программирование", "programming", "WoW", "Google", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast50.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Юбилейный выпуск информационно-развлекательного подкаста увидел свет! В этом выпуске:</p>
 <ul>

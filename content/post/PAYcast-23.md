@@ -3,6 +3,8 @@ title: "PAYcast 23"
 date: 2011-08-24T07:40:59Z
 tags: [ "nintendo", "Twitter", "Яндекс", "iPad", "yandex", "facebook", "Google", "google plus", "PAYcast", "games", "yahoo", "Motorola", "development" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast23.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Twitter &#171;радует&#187; нас <a href="http://www.3dnews.ru/software-news/615360/" target="_blank">новыми возможностями </a></li>

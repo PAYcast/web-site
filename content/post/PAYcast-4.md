@@ -3,6 +3,8 @@ title: "PAYcast 4"
 date: 2010-11-28T08:47:18Z
 tags: [ "imhonet", "Билл Плимптон", "Bill Plympton", "iOS", "Имхонет", "Яндекс", "yandex", "film", "WoW", "PAYcast", "Apple", "agile" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast4.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Как там в Яндексе. Информация изнутри</li>

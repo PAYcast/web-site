@@ -3,6 +3,8 @@ title: "PAYcast 40 (Javascript + REST)"
 date: 2012-02-20T03:26:37Z
 tags: [ "half life", "fishque", "Mountain Lion", "javascript", "valve", "OS X", "REST", "Google", "PAYcast", "Apple", "Google Chrome" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast40.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Смогут ли <a href="http://www.gamer.ru/news/v-half-life-2-vo-imya-buduschego-serii-half-life-odnovremenno-sygrali-13-tysyach" target="_blank">13 килоигроков в HalfLife</a> повлиять на Valve</li>

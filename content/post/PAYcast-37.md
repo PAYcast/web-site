@@ -3,6 +3,8 @@ title: "PAYcast 37"
 date: 2012-01-23T06:50:49Z
 tags: [ "CS", "SOPA", "базы данных", "PIPA", "php", "ruby", "education", "образование", "pyhon", "db", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast37.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Отучился на CS-специалиста? Пора <a href="http://prog21.dadgum.com/123.html" target="_blank">привести мозги в норму</a></li>

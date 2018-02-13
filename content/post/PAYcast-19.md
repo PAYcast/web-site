@@ -3,6 +3,8 @@ title: "PAYcast 19"
 date: 2011-05-21T20:24:26Z
 tags: [ "Windows phone 7", "mobile phones", "version control", "Microsoft", "gartner", "Order and Chaos", "Ribbon Hero 2", "programming", "WoW", "Skype", "PAYcast", "mobile games" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast19.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Windows Phone 7 <a href="http://www.intomobile.com/2011/04/26/microsoft-confirms-windows-phone-does-not-store-location-history/" target="_blank">не хранит ваши геолокационные данные</a></li>

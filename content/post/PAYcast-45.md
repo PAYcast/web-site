@@ -3,6 +3,8 @@ title: "PAYcast 45"
 date: 2012-04-19T10:04:54Z
 tags: [ "fishque", "contest", "Oracle", "Java", "sun/com", "facebook", "Google", "google plus", "PAYcast", "Instagram", "WolframAlpha", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast45.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Instagram продался мейнстримерам за $1 млрд.</li>

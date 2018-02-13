@@ -3,6 +3,8 @@ title: "PAYcast 13"
 date: 2011-02-27T14:09:50Z
 tags: [ "Android", "Microsoft", "Noteslate", "iPad", "PAYcast", "Brainfuck", "Windows Azure", "Apple" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast13.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://noteslate.com/" target="_blank">NoteSlate</a> &#8212; электронный блокнот на еPapper</li>

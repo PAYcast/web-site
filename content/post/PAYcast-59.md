@@ -3,6 +3,8 @@ title: "PAYcast 59"
 date: 2013-04-23T06:31:14Z
 tags: [ "hidden", "diff displays", "features", "iphone 5", "display", "PAYcast", "Apple" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast59.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Очередной выпуск PAYcast про мониторы и телефоны.</p>
 <ul>

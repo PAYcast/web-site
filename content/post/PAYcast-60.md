@@ -3,6 +3,8 @@ title: "PAYcast 60"
 date: 2014-01-16T10:17:36Z
 tags: [ "Xbox", "gibbon", "steam", "playstation", "phone", "ZTE", "CES", "supersonic", "yotaphone", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast60.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Новый выпуск PAYcast после большого перерыва.</p>
 <ul>

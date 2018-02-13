@@ -3,6 +3,8 @@ title: "PAYcast 33 (To be or not to be)"
 date: 2011-11-27T19:06:36Z
 tags: [ "silverlight", "Война Богов", "Twilight", "vcs", "Immortals", "Flash", "3d-printer", "RIM", "Сумерки", "programming", "PAYcast", "Adobe" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast33.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://www.theverge.com/2011/11/9/2550815/rim-to-continue-developing-flash-browser-plug-in-for-playbook" target="_blank">RIM не дает</a> похоронить <a href="http://www.zdnet.com/blog/perlow/exclusive-adobe-ceases-development-on-mobile-browser-flash-refocuses-efforts-on-html5/19226" target="_blank">Flash</a></li>

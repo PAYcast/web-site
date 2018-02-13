@@ -3,6 +3,8 @@ title: "PAYcast 55"
 date: 2012-12-17T06:44:03Z
 tags: [ "PAYcast", "internet security", "programming", "программирование" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast55.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Новый <a href="http://solidsmack.com/3d-cad-technology/this-digital-10-finger-keyboard-of-the-future-is-simply-brilliant/" target="_blank">метод печати</a></li>

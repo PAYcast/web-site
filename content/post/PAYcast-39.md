@@ -3,6 +3,8 @@ title: "PAYcast 39"
 date: 2012-02-08T05:27:03Z
 tags: [ "fishque", "Mozilla", "javascript", "trends", "hastebin", "tabs vs spaces", "Dart", "Google", "Firefox", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast39.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Чего принесет нам год нынешний? <a href="http://www.forbes.com/sites/roberthof/2011/12/13/6-big-internet-trends-to-watch-for-2012/" target="_blank">6 интернет трендов 2012 года</a></li>

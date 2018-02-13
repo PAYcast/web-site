@@ -3,6 +3,8 @@ title: "PAYcast 36"
 date: 2012-01-16T04:44:18Z
 tags: [ "fishque", "razer", "Microsoft", "project fiona", "workspace", "PAYcast", "WolframAlpha", "Motorola", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast36.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Microsoft обещает выпустить специальный <a href="http://habrahabr.ru/blogs/microsoft/135959/" target="_blank">Kinect для десктопов</a></li>

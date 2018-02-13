@@ -3,6 +3,8 @@ title: "PAYcast 32"
 date: 2011-11-08T08:21:50Z
 tags: [ "Google Reader", "Nokia", "Gmail", "Boston Dynamics", "Petman", "robots", "Google", "PAYcast", "Vim" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast32.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Google Reader и Gmail <a href="http://habrahabr.ru/blogs/google/131636/" target="_blank">обновили дизайн</a></li>

@@ -3,6 +3,8 @@ title: "PAYcast 8"
 date: 2011-01-08T14:06:08Z
 tags: [ "2011", "RSS", "Google Reader", "Microsoft", "Windows", "Mac App Store", "CES", "PAYcast", "unsocial", "Surface", "Apple", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast8.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://www.uxpassion.com/2011/01/web-design-and-web-development-trends-2011" target="_blank">Прогнозы</a> на 2011 год</li>

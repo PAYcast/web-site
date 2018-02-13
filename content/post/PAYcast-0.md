@@ -3,6 +3,8 @@ title: "PAYcast 0"
 date: 2010-11-04T21:14:14Z
 tags: [ "PAYcast", "iPad", "Windows Phone", "WoW" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast0.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Грант устроился на работу

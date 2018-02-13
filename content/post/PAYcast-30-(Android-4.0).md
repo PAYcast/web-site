@@ -3,6 +3,8 @@ title: "PAYcast 30 (Android 4.0)"
 date: 2011-10-24T13:41:50Z
 tags: [ "ГЛОНАСС", "fishque", "Android", "Samsung", "IPhone", "Google", "живая сталь", "PAYcast", "gaming", "real steel", "Motorola" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast30.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Как относиться к тому, что в iPhone 4S есть чип ГЛОНАСС</li>

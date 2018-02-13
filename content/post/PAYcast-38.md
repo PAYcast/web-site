@@ -3,6 +3,8 @@ title: "PAYcast 38"
 date: 2012-01-29T19:51:26Z
 tags: [ "new job", "fishque", "pixlr", "Ubuntu", "umbrella today", "PAYcast", "ifttt", "asana", "cloudtact", "study coding", "interview", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast38.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Новая работа Симыча и байки с собеседований</li>

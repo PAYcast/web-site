@@ -3,6 +3,8 @@ title: "PAYcast 10"
 date: 2011-01-22T10:35:09Z
 tags: [ "SharpDevelop", "MVC", "Microsoft", "конкурс", "Razor", "IDE", "цитаты", "Similar Sites", "PAYcast", "Minecraft" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast10.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Программисты не умеют программировать?</li>

@@ -3,6 +3,8 @@ title: "PAYcast 49"
 date: 2012-08-14T19:52:13Z
 tags: [ "Microsoft", "программирование", "programming", "SQLite", "Google", "PAYcast", "Outlook" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast49.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>&#171;Время нельзя повернуть назад&#187; или <a href="http://habrahabr.ru/post/146109/" target=_blank>самые популярные заблуждения программистов насчёт времени</a></li>

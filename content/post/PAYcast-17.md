@@ -3,6 +3,8 @@ title: "PAYcast 17"
 date: 2011-04-16T13:04:55Z
 tags: [ "Codefirst", "CodeReview", "fishque", "StackOverflow", "Microsoft", "Mail.ru Group", "ICQ", "PAYcast", "podcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast17.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Стоит ли Microsoft открывать <a href="http://technologizer.com/2011/04/07/ballmers-right-five-reasons-why-microsoft-should-open-more-stores/" target="_blank">оффлайн-магазин</a>?</li>

@@ -3,6 +3,8 @@ title: "PAYcast 11"
 date: 2011-02-07T23:37:27Z
 tags: [ "fishque", "Android", "RoboRally", "alt.net", "Яндекс", "Bing", "yandex", "Jeopardy", "Google", "PAYcast", "WolframAlpha" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast11.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Результаты конкурса</li>

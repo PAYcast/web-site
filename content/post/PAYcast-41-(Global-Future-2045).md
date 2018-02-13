@@ -3,6 +3,8 @@ title: "PAYcast 41 (Global Future 2045)"
 date: 2012-03-04T20:43:55Z
 tags: [ "ПСИ", "fishque", "ads", "Adblock Plus", "Twitter", "Яндекс", "Microsoft Research", "yandex", "ad.block", "topsy", "PAYcast", "gf2045" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast41.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://company.yandex.ru/press_releases/2012/0221/index.xml" target="_blank">ПСИонические запуски Яндекса</a>: люди, twitter, свежесть</li>

@@ -18,6 +18,7 @@ object Main extends App {
   private val dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
 
   private def decodeJson[A: Decoder](input: String) = IO.fromEither(decode[A](input))
+  private def toAwsUrl(url: String) = "https://s3-eu-west-1.amazonaws.com/paycast" + url.substring(url.lastIndexOf('/'))
 
   private def convertToMarkdown(post: Post) =
     s"""---
@@ -25,6 +26,8 @@ object Main extends App {
        |date: ${dateFormat.format(post.issued)}
        |tags: [ ${post.categories.map(c => s""""$c"""").mkString(", ")} ]
        |draft: false
+       |podcast_file: "${toAwsUrl(post.enclosures.head.url)}"
+       |podcast_type: "${post.enclosures.head.`type`}"
        |---
        |${post.body}
      """.stripMargin

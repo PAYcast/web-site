@@ -3,6 +3,8 @@ title: "PAYcast 20"
 date: 2011-06-14T16:35:50Z
 tags: [ "iOS", "Windows phone 7", "Twitter", "Microsoft", "Electronic Entertainment Expo", "ультрабук", "OS X", "WWDC", "Skype", "PAYcast", "Softkey", "asus", "Apple", "Windows 8" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast20.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Выпуск, запись которого была приурочена к Международному Дню Друзей</p>
 <ul>

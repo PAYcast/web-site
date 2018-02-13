@@ -3,6 +3,8 @@ title: "PAYcast 25"
 date: 2011-09-14T12:28:21Z
 tags: [ "fishque", "fitness", "HTC", "Windows phone 7", "Blizzard", "diablo", "IPhone", "Google", "PAYcast", "Apple", "internet security" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast25.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Google сворачивает любимые нами всеми <a href="http://googleblog.blogspot.com/2011/09/fall-spring-clean.html" target="_blank">проекты</a>. Как нам быть и что делать?!</li>

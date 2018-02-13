@@ -3,6 +3,8 @@ title: "PAYcast 7"
 date: 2010-12-31T16:54:15Z
 tags: [ "dotTrace", "uTorrent", "JetBrains", "Трон:Наследие", "Яндекс", "Google Talk", "NYTProf", "yandex", "film", "IDEA", "TRON:Legacy", "Eclipse", "Google", "Skype", "PAYcast", "µTorrent" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast7.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Падение Skype &#8212; кому и чем грозило?</li>

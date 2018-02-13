@@ -3,6 +3,8 @@ title: "PAYcast 31 (Blizzcon 2011)"
 date: 2011-11-01T10:17:41Z
 tags: [ "Blizzard", "Ubuntu", "Microsoft", "Nokia", "Starcraft", "Bing", "diablo", "WoW", "Blizzcon", "Firefox", "PAYcast", "Gnome", "Unity" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast31.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://habrahabr.ru/blogs/microsoft/131306/" target="_blank">Mozilla Firefox теперь имеет версию с Bing</a>. Прямо как Yandex!</li>

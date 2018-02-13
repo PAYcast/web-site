@@ -3,6 +3,8 @@ title: "PAYcast 44 (Хахаха)"
 date: 2012-04-08T20:13:04Z
 tags: [ "MMORPG", "fishque", "Notch", "Google Glass", "Blizzard", "Mozilla", "Яндекс", "Dropbox", "yandex", "Яндекс.Диск", "WoW", "Google", "PAYcast", "Minecraft" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast44.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://bits.blogs.nytimes.com/2012/04/04/google-begins-testing-its-augmented-reality-glasses/" target="_blank">Google Glass</a> &#8212; окно в будущее</li>

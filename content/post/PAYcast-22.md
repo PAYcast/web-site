@@ -3,6 +3,8 @@ title: "PAYcast 22"
 date: 2011-08-14T21:28:29Z
 tags: [ "Twitter", "Microsoft", "Яндекс", "OS X", "Java", "yandex", "Google", "google plus", "PAYcast", "Windows Azure", "Apple" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast22.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Впечатления от OS X Lion</li>

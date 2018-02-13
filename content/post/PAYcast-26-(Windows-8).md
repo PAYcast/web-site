@@ -3,6 +3,8 @@ title: "PAYcast 26 (Windows 8)"
 date: 2011-09-16T16:03:41Z
 tags: [ "Microsoft", ".NET", "Eloquera", "PAYcast", "Windows 8" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast26.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><strong>Тема выпуска</strong>: на конференции <a href="http://2011.buildconf.com/" target="_blank">BUILD</a> Microsoft анонсировали <a href="http://www.howtogeek.com/74089/windows-8-the-gigantic-how-to-geek-screenshot-tour/" target="_blank">Windows 8</a></li>

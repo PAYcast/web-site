@@ -3,6 +3,8 @@ title: "PAYcast 43"
 date: 2012-04-01T20:47:46Z
 tags: [ "DARPA", "Go", "REST", "programming", "Google", "PAYcast", "coding", "API", "golang", "OpenSource" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast43.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Внезапно <a href="http://e1ven.com/2012/03/21/comparison-of-open-source-licenses/" target="_blank">OpenSource&#8217;ные лицензии</a></li>

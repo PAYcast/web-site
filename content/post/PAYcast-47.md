@@ -3,6 +3,8 @@ title: "PAYcast 47"
 date: 2012-06-04T08:19:34Z
 tags: [ "music", "silverlight", "музыка", "mono", "monodevelop", "Яндекс", "leap", "yandex", "gadgets", "программирование", "programming", "phonedeck", "PAYcast", "semantic web", "moonlight", "silk" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast47.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://www.iphones.ru/iNotes/222570" target="_blank">Leap</a> &#8212; новый убийца Kinect на поприще революционных манипуляторов</li>

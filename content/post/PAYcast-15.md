@@ -3,6 +3,8 @@ title: "PAYcast 15"
 date: 2011-03-27T12:20:00Z
 tags: [ "developers punishment", "monomac", "mono", "javascript", "центр речевых технологий", "yandex", "curly braces", "math", "consoles", "PAYcast", "mobile games", "youtube" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast15.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Опять эти скобочки. Особенности <a href="http://encosia.com/2011/03/21/in-javascript-curly-brace-placement-matters-an-example/" target="_blank">фигурных скобок в JavaScript</a></li>

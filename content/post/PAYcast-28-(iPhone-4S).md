@@ -3,6 +3,8 @@ title: "PAYcast 28 (iPhone 4S)"
 date: 2011-10-11T07:44:08Z
 tags: [ "Steven Jobs", "iOS", "HTC", "Siri", "iPod", "iCloud", "IPhone", "PAYcast", "Apple" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast28.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Пара слов о Стиве Джобсе</li>

@@ -3,6 +3,8 @@ title: "PAYcast 57 (Manipulative)"
 date: 2013-03-18T04:00:06Z
 tags: [ "наука", "Microsoft", "science", "leap", "myo", "PAYcast", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast57.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Новый выпуск PAYcast&#8217;a, полностью посвещённый непонятным манипуляторам ваших компьютеров.</p>
 <ul>

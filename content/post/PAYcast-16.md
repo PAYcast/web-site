@@ -3,6 +3,8 @@ title: "PAYcast 16"
 date: 2011-04-08T15:55:51Z
 tags: [ "it", "cloud drive", "amazon", "+1", "cloud player", "near field communication", "Яндекс", "yandex", "Google", "lenovo", "PAYcast", "agile" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast16.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Учимся управлять компьютером при помощи <a href="http://encosia.com/2011/03/21/in-javascript-curly-brace-placement-matters-an-example/" target="_blank">глаз</a></li>

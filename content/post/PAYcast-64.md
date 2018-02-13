@@ -3,6 +3,8 @@ title: "PAYcast 64"
 date: 2015-04-13T08:40:18Z
 tags: [ "overcast", "clrium", "akka", "threadlocal", ".NET", "Instacast", "PAYcast", "JPoint" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast64.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>О приложениях для прослушивания подкастов</li>

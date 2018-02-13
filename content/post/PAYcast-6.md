@@ -3,6 +3,8 @@ title: "PAYcast 6"
 date: 2010-12-12T12:52:20Z
 tags: [ "silverlight", "design patterns", "интернет-магазины", "ChromeOS", "IT компании", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast6.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>У нас новый гость. Кто он?</li>

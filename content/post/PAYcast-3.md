@@ -3,6 +3,8 @@ title: "PAYcast 3"
 date: 2010-11-17T21:57:43Z
 tags: [ "Ходячие мертвецы", "silverlight", "Игромир", "iOS", "Скайлайн", "Due Date", "Skyline", "Впритык", "film", "The Walking Dead", "bookmate.ru", "PAYcast", "Apple" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast3.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Silverlight &#8212; каково работать с ним, каковы его перспективы</li>

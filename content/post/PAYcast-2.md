@@ -3,6 +3,8 @@ title: "PAYcast 2"
 date: 2010-11-05T00:37:04Z
 tags: [ "Студень", "Microsoft", "film", "Социальная сеть", "rusd.tv", "PAYcast", "studay", "ruhd.tv", "The Social network" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast2.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>MS Student Day

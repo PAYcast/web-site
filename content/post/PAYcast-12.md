@@ -3,6 +3,8 @@ title: "PAYcast 12"
 date: 2011-02-12T12:10:00Z
 tags: [ "Нихром", "Хром", "Internet Explorer", "Chrome", "browser", "holywar", "Firefox", "Opera", "PAYcast", "IE9", "time", "Google Chrome" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast12.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>К этому моменту &#8212; самый сумбурный выпуск</p>
 <ul>

@@ -3,6 +3,8 @@ title: "iPAYcast 54"
 date: 2012-11-12T03:24:13Z
 tags: [ "планшет", "mono", "javascript", "iPad", "программирование", "PAYcast", "Apple", "Sony" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast54.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><strong>Тема выпуска</strong>: Презентация новых <a href="http://habrahabr.ru/post/155865/" target="_blank">Apple устройств</a>

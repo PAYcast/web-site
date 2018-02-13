@@ -3,6 +3,8 @@ title: "PAYcast 42 (Q n A)"
 date: 2012-03-26T05:51:58Z
 tags: [ "sci fi", "fishque", "QnA", "science", "iPad", "string theory", "PAYcast", "Apple", "теория струн" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast42.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Подкаст с номером 42 выходит для того чтобы ответить на все интересующие наших слушателей вопросы.</p>
 <ul>

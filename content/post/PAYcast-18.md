@@ -3,6 +3,8 @@ title: "PAYcast 18"
 date: 2011-05-13T12:10:08Z
 tags: [ "amazon", "Android", "Nielsen", "геопланировщик", "IPhone", "PAYcast", "ruhd.tv", "Delicious", "Sony", "DDOS", "Google Chrome" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast18.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Свободное ПО <a href="http://www.infoworld.com/print/155740" target="_blank">сейчас на взлете</a></li>

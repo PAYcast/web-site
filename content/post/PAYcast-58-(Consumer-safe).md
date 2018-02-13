@@ -3,6 +3,8 @@ title: "PAYcast 58 (Consumer safe)"
 date: 2013-04-02T09:32:45Z
 tags: [ "RSS", "fishque", "Google Reader", "mailbox", "Google", "flipboard", "PAYcast" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast58.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Новый выпуск PAYcast&#8217;a о том, как современные гики потребляют контент.</p>
 <ul>

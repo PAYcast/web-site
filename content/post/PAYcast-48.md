@@ -3,6 +3,8 @@ title: "PAYcast 48"
 date: 2012-06-25T08:31:13Z
 tags: [ "iOS", "Microsoft", "javascript", "OS X", "ConsolR", "WWDC", "Smart Glass", "SPDY", "Firefox", "PAYcast", "JSX", "Visual Studio", "Apple", "ASP.NET", "MacBook", "development" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast48.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://jsx.github.com/" target="_blank">JSX</a> &#8212; Javascript со статической типизацией</li>

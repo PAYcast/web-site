@@ -3,6 +3,8 @@ title: "PAYcast 29 (Игромир 2011)"
 date: 2011-10-17T08:58:08Z
 tags: [ "NoSql", "Игромир", "iOS", "vcs", "Oracle", "юбилей", "веб-разработка", "Dart", "Google", "PAYcast", "Apple", "svn" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast29.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Юбилей подкастика! Немножко двойной</li>

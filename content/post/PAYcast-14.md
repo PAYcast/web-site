@@ -3,6 +3,8 @@ title: "PAYcast 14"
 date: 2011-03-13T20:46:22Z
 tags: [ "The King's Speech", "fishque", "The Adjustment Bureau", "I Am Number Four", "Король говорит", "Меняющие реальность", "Black Swan", "Я четвертый", "dilbert", "point-b", "iPad", "film", "Санктум", "xkcd", "Черный лебедь", "Sanctum", "oatmeal", "geek&poke", "PAYcast", "asus", "Apple", "bash.org.ru", "Точка бифуркации" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast14.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>iPad2 и iOS 4.3 &#8212; что нового</li>

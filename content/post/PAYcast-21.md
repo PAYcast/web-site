@@ -3,6 +3,8 @@ title: "PAYcast 21"
 date: 2011-07-17T11:24:00Z
 tags: [ "super 8", "guid", "yslow", "green lantern", "ad.block", "Google", "google plus", "PAYcast", "зеленый фонарь", "супер 8" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast21.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Очередной выпуск после долгого перерыва</p>
 <ul>

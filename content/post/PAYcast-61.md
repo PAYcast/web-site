@@ -3,6 +3,8 @@ title: "PAYcast 61"
 date: 2014-02-03T07:00:02Z
 tags: [ "car", "mtg", "Razor", "gadgets", "CES", "bmw", "lenovo", "PAYcast", "sharp", "asus" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast61.mp3"
+podcast_type: "audio/mpeg"
 ---
 <p>Новый выпуск PAYcast про новинки <a href="http://paleofuture.gizmodo.com/heres-how-ridiculous-this-years-ces-will-look-in-2034-1495500665">CES 2014</a>.</p>
 <ul>

@@ -3,6 +3,8 @@ title: "PAYcast 27"
 date: 2011-09-30T14:13:05Z
 tags: [ "Kindle", "amazon", "Android", "Nielsen", "iOS", "Mozilla", "Microsoft", "OS X", "Flash", "SSL", "Firefox", "PAYcast", "Minecraft", "Delicious" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast27.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Что нового <a href="http://www.macstories.net/news/firefox-7-officially-released/" target="_blank">домохозяйкам</a> и <a href="https://developer.mozilla.org/en/Firefox_7_for_developers" target="_blank">разработчикам</a> принес Firefox 7</li>

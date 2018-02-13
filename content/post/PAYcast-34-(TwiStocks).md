@@ -3,6 +3,8 @@ title: "PAYcast 34 (TwiStocks)"
 date: 2011-12-05T10:01:48Z
 tags: [ "razer", "sports", "Twitter", "stocks", "hologram", "little printer", "gadgets", "PAYcast", "gaming", "mutitouch" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast34.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Новый способ контроля в видеоиграх от компании Razer &#8212; <a href="http://habrahabr.ru/blogs/hardware/133487/" target="_blank">Hydra</a>. ПК геймеры ликуют!</li>

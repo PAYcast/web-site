@@ -3,6 +3,8 @@ title: "PAYcast 62"
 date: 2014-03-06T10:43:42Z
 tags: [ "geek picnic", "github", "coder mind", "atom", "mutation tests", "PAYcast", "web", "tests" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast62.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><a href="http://atom.io">Atom</a> — текстовый редактор от GitHub</li>

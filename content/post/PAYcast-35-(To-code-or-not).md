@@ -3,6 +3,8 @@ title: "PAYcast 35 (To code or not)"
 date: 2011-12-11T23:31:19Z
 tags: [ "fishque", "Xbox", "Twitter", "browser", "programming", "PAYcast", "Google Chrome" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast35.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li><strong>Тема выпуска</strong>: Еще раз &#8212; как понять, что <a href="http://badprogrammer.infogami.com/" target="_blank">программирование это не ваше</a></li>

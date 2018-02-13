@@ -3,6 +3,8 @@ title: "PAYcast 5"
 date: 2010-12-04T15:25:42Z
 tags: [ "Resharper", "Microsoft", "паттерны", ".NET", "WoW", "PAYcast", "patterns", "Windows Phone", "Kinect" ]
 draft: false
+podcast_file: "https://s3-eu-west-1.amazonaws.com/paycast/PAYcast5.mp3"
+podcast_type: "audio/mpeg"
 ---
 <ul>
 <li>Новая игровая консоль <a href="http://www.xbox.com/ru-RU/Kinect/" target="_blank">MS Kinect</a>. Первые впечатления</li>
