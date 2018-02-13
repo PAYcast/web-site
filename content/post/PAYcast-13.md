@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 13"
 date: 2011-02-27T14:09:50Z
-tags: [ iPad, Brainfuck, Apple, Windows Azure, Microsoft, PAYcast, Android, Noteslate ]
+tags: [ "Android", "Microsoft", "Noteslate", "iPad", "PAYcast", "Brainfuck", "Windows Azure", "Apple" ]
 draft: false
 ---
 <ul>

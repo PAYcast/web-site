@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 38"
 date: 2012-01-29T19:51:26Z
-tags: [ study coding, fishque, interview, asana, umbrella today, cloudtact, pixlr, ifttt, PAYcast, Kinect, new job, Ubuntu ]
+tags: [ "new job", "fishque", "pixlr", "Ubuntu", "umbrella today", "PAYcast", "ifttt", "asana", "cloudtact", "study coding", "interview", "Kinect" ]
 draft: false
 ---
 <ul>

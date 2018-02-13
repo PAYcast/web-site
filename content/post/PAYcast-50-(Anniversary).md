@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 50 (Anniversary)"
 date: 2012-09-03T13:39:05Z
-tags: [ programming, MongoDb, Google, программирование, PAYcast, WoW ]
+tags: [ "MongoDb", "программирование", "programming", "WoW", "Google", "PAYcast" ]
 draft: false
 ---
 <p>Юбилейный выпуск информационно-развлекательного подкаста увидел свет! В этом выпуске:</p>

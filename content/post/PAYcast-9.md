@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 9"
 date: 2011-01-18T18:44:01Z
-tags: [ Punto Switcher, Яндекс, Atrix, базы данных, yandex, PAYcast, Motorola, MSSQL, agile ]
+tags: [ "MSSQL", "базы данных", "Яндекс", "yandex", "Atrix", "PAYcast", "Punto Switcher", "Motorola", "agile" ]
 draft: false
 ---
 <ul>

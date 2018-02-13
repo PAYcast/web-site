@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 15"
 date: 2011-03-27T12:20:00Z
-tags: [ youtube, mono, monomac, yandex, math, центр речевых технологий, mobile games, PAYcast, developers punishment, consoles, javascript, curly braces ]
+tags: [ "developers punishment", "monomac", "mono", "javascript", "центр речевых технологий", "yandex", "curly braces", "math", "consoles", "PAYcast", "mobile games", "youtube" ]
 draft: false
 ---
 <ul>

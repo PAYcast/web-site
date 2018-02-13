@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 11"
 date: 2011-02-07T23:37:27Z
-tags: [ fishque, Bing, alt.net, Яндекс, Google, yandex, PAYcast, RoboRally, Android, Jeopardy, WolframAlpha ]
+tags: [ "fishque", "Android", "RoboRally", "alt.net", "Яндекс", "Bing", "yandex", "Jeopardy", "Google", "PAYcast", "WolframAlpha" ]
 draft: false
 ---
 <ul>

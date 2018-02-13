@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 7"
 date: 2010-12-31T16:54:15Z
-tags: [ µTorrent, JetBrains, TRON:Legacy, Skype, Яндекс, Eclipse, NYTProf, Google, uTorrent, Трон:Наследие, yandex, PAYcast, IDEA, Google Talk, film, dotTrace ]
+tags: [ "dotTrace", "uTorrent", "JetBrains", "Трон:Наследие", "Яндекс", "Google Talk", "NYTProf", "yandex", "film", "IDEA", "TRON:Legacy", "Eclipse", "Google", "Skype", "PAYcast", "µTorrent" ]
 draft: false
 ---
 <ul>

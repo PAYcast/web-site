@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 53"
 date: 2012-10-23T08:15:40Z
-tags: [ programming, gaming, WiiU, Microsoft, программирование, PAYcast, Samsung, YouPorn, ChromeOS, Xbox, Surface ]
+tags: [ "Xbox", "Microsoft", "Samsung", "ChromeOS", "программирование", "programming", "PAYcast", "gaming", "Surface", "WiiU", "YouPorn" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 41 (Global Future 2045)"
 date: 2012-03-04T20:43:55Z
-tags: [ fishque, Microsoft Research, ad.block, Adblock Plus, Яндекс, gf2045, Twitter, topsy, ads, yandex, PAYcast, ПСИ ]
+tags: [ "ПСИ", "fishque", "ads", "Adblock Plus", "Twitter", "Яндекс", "Microsoft Research", "yandex", "ad.block", "topsy", "PAYcast", "gf2045" ]
 draft: false
 ---
 <ul>

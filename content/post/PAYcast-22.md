@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 22"
 date: 2011-08-14T21:28:29Z
-tags: [ Яндекс, OS X, Twitter, Apple, Google, yandex, Windows Azure, Microsoft, PAYcast, google plus, Java ]
+tags: [ "Twitter", "Microsoft", "Яндекс", "OS X", "Java", "yandex", "Google", "google plus", "PAYcast", "Windows Azure", "Apple" ]
 draft: false
 ---
 <ul>

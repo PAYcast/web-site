@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 29 (Игромир 2011)"
 date: 2011-10-17T08:58:08Z
-tags: [ Dart, vcs, Игромир, Apple, Google, PAYcast, веб-разработка, svn, юбилей, iOS, NoSql, Oracle ]
+tags: [ "NoSql", "Игромир", "iOS", "vcs", "Oracle", "юбилей", "веб-разработка", "Dart", "Google", "PAYcast", "Apple", "svn" ]
 draft: false
 ---
 <ul>

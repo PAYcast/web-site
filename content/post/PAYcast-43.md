@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 43"
 date: 2012-04-01T20:47:46Z
-tags: [ golang, programming, coding, REST, Go, Google, PAYcast, DARPA, OpenSource, API ]
+tags: [ "DARPA", "Go", "REST", "programming", "Google", "PAYcast", "coding", "API", "golang", "OpenSource" ]
 draft: false
 ---
 <ul>

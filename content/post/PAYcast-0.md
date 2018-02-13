@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 0"
 date: 2010-11-04T21:14:14Z
-tags: [ PAYcast, iPad, Windows Phone, WoW ]
+tags: [ "PAYcast", "iPad", "Windows Phone", "WoW" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 5"
 date: 2010-12-04T15:25:42Z
-tags: [ patterns, Resharper, паттерны, Microsoft, PAYcast, .NET, Windows Phone, WoW, Kinect ]
+tags: [ "Resharper", "Microsoft", "паттерны", ".NET", "WoW", "PAYcast", "patterns", "Windows Phone", "Kinect" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 33 (To be or not to be)"
 date: 2011-11-27T19:06:36Z
-tags: [ vcs, Flash, programming, Immortals, 3d-printer, RIM, Сумерки, Война Богов, PAYcast, silverlight, Adobe, Twilight ]
+tags: [ "silverlight", "Война Богов", "Twilight", "vcs", "Immortals", "Flash", "3d-printer", "RIM", "Сумерки", "programming", "PAYcast", "Adobe" ]
 draft: false
 ---
 <ul>

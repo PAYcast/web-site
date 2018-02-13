@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 21"
 date: 2011-07-17T11:24:00Z
-tags: [ ad.block, super 8, guid, Google, yslow, PAYcast, супер 8, google plus, green lantern, зеленый фонарь ]
+tags: [ "super 8", "guid", "yslow", "green lantern", "ad.block", "Google", "google plus", "PAYcast", "зеленый фонарь", "супер 8" ]
 draft: false
 ---
 <p>Очередной выпуск после долгого перерыва</p>

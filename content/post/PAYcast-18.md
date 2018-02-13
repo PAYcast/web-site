@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 18"
 date: 2011-05-13T12:10:08Z
-tags: [ Google Chrome, amazon, Delicious, ruhd.tv, DDOS, геопланировщик, Nielsen, PAYcast, IPhone, Android, Sony ]
+tags: [ "amazon", "Android", "Nielsen", "геопланировщик", "IPhone", "PAYcast", "ruhd.tv", "Delicious", "Sony", "DDOS", "Google Chrome" ]
 draft: false
 ---
 <ul>

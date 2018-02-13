@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 40 (Javascript + REST)"
 date: 2012-02-20T03:26:37Z
-tags: [ Google Chrome, fishque, OS X, REST, Apple, half life, Google, PAYcast, Mountain Lion, valve, javascript ]
+tags: [ "half life", "fishque", "Mountain Lion", "javascript", "valve", "OS X", "REST", "Google", "PAYcast", "Apple", "Google Chrome" ]
 draft: false
 ---
 <ul>

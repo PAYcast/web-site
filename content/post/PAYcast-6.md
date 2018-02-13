@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 6"
 date: 2010-12-12T12:52:20Z
-tags: [ интернет-магазины, design patterns, IT компании, PAYcast, silverlight, ChromeOS ]
+tags: [ "silverlight", "design patterns", "интернет-магазины", "ChromeOS", "IT компании", "PAYcast" ]
 draft: false
 ---
 <ul>

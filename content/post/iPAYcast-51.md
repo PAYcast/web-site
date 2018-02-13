@@ -1,7 +1,7 @@
 ---
 title: "iPAYcast 51"
 date: 2012-09-20T17:15:11Z
-tags: [ Apple, Nokia, iPod, PAYcast, IPhone, WoW, iOS ]
+tags: [ "iOS", "Nokia", "iPod", "IPhone", "WoW", "PAYcast", "Apple" ]
 draft: false
 ---
 <ul>

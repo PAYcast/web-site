@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 2"
 date: 2010-11-05T00:37:04Z
-tags: [ ruhd.tv, rusd.tv, Социальная сеть, The Social network, studay, Microsoft, PAYcast, Студень, film ]
+tags: [ "Студень", "Microsoft", "film", "Социальная сеть", "rusd.tv", "PAYcast", "studay", "ruhd.tv", "The Social network" ]
 draft: false
 ---
 <ul>

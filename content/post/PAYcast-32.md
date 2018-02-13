@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 32"
 date: 2011-11-08T08:21:50Z
-tags: [ robots, Petman, Nokia, Google, Gmail, PAYcast, Google Reader, Vim, Boston Dynamics ]
+tags: [ "Google Reader", "Nokia", "Gmail", "Boston Dynamics", "Petman", "robots", "Google", "PAYcast", "Vim" ]
 draft: false
 ---
 <ul>

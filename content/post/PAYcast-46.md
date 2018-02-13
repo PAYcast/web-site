@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 46"
 date: 2012-05-21T04:44:30Z
-tags: [ Disney, Touche, Galaxy, ACM ICPC, Instacast, Lenya, PAYcast, Lenochka, Samsung, .NET, Node.js, ACM, diablo ]
+tags: [ "Node.js", "ACM ICPC", "Lenya", "Lenochka", "Touche", "Samsung", ".NET", "diablo", "Disney", "ACM", "Instacast", "PAYcast", "Galaxy" ]
 draft: false
 ---
 <ul>

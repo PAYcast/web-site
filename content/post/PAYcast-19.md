@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 19"
 date: 2011-05-21T20:24:26Z
-tags: [ Order and Chaos, Skype, programming, Ribbon Hero 2, mobile phones, Windows phone 7, mobile games, Microsoft, PAYcast, gartner, WoW, version control ]
+tags: [ "Windows phone 7", "mobile phones", "version control", "Microsoft", "gartner", "Order and Chaos", "Ribbon Hero 2", "programming", "WoW", "Skype", "PAYcast", "mobile games" ]
 draft: false
 ---
 <ul>

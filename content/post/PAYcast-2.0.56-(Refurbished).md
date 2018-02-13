@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 2.0.56 (Refurbished)"
 date: 2013-03-04T03:28:44Z
-tags: [ JetBrains, это_Питер_детка, yandex, PAYcast, t-systms, Oracle ]
+tags: [ "JetBrains", "это_Питер_детка", "Oracle", "yandex", "PAYcast", "t-systms" ]
 draft: false
 ---
 <p><strong>Внезапно</strong>, новый выпуск в новом формате!</p>

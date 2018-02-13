@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 52 (YaC)"
 date: 2012-10-13T13:10:42Z
-tags: [ browser, Яндекс, TypeScript, yandex, facebook, Microsoft, PAYcast, веб-разработка ]
+tags: [ "Microsoft", "Яндекс", "yandex", "facebook", "веб-разработка", "browser", "PAYcast", "TypeScript" ]
 draft: false
 ---
 <ul>

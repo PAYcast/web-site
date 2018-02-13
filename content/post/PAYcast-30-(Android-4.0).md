@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 30 (Android 4.0)"
 date: 2011-10-24T13:41:50Z
-tags: [ fishque, живая сталь, gaming, ГЛОНАСС, Google, PAYcast, Samsung, real steel, Motorola, IPhone, Android ]
+tags: [ "ГЛОНАСС", "fishque", "Android", "Samsung", "IPhone", "Google", "живая сталь", "PAYcast", "gaming", "real steel", "Motorola" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 44 (Хахаха)"
 date: 2012-04-08T20:13:04Z
-tags: [ fishque, Dropbox, Яндекс, MMORPG, Blizzard, Mozilla, Google, yandex, PAYcast, WoW, Яндекс.Диск, Minecraft, Google Glass, Notch ]
+tags: [ "MMORPG", "fishque", "Notch", "Google Glass", "Blizzard", "Mozilla", "Яндекс", "Dropbox", "yandex", "Яндекс.Диск", "WoW", "Google", "PAYcast", "Minecraft" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "iPAYcast 54"
 date: 2012-11-12T03:24:13Z
-tags: [ iPad, mono, Apple, планшет, программирование, PAYcast, Sony, javascript ]
+tags: [ "планшет", "mono", "javascript", "iPad", "программирование", "PAYcast", "Apple", "Sony" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 20"
 date: 2011-06-14T16:35:50Z
-tags: [ asus, ультрабук, Softkey, Skype, OS X, Twitter, Apple, WWDC, Windows phone 7, Microsoft, PAYcast, Electronic Entertainment Expo, Windows 8, iOS ]
+tags: [ "iOS", "Windows phone 7", "Twitter", "Microsoft", "Electronic Entertainment Expo", "ультрабук", "OS X", "WWDC", "Skype", "PAYcast", "Softkey", "asus", "Apple", "Windows 8" ]
 draft: false
 ---
 <p>Выпуск, запись которого была приурочена к Международному Дню Друзей</p>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 1"
 date: 2010-11-05T00:36:01Z
-tags: [ Back to Mac, Похороненный заживо, Яндекс, Blizzard, Apple, yandex, Blizzcon, Buried, PAYcast, unsigned, RED, film ]
+tags: [ "Blizzard", "Buried", "Яндекс", "yandex", "film", "Back to Mac", "Похороненный заживо", "RED", "Blizzcon", "unsigned", "PAYcast", "Apple" ]
 draft: false
 ---
 <div>

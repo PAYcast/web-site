@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 49"
 date: 2012-08-14T19:52:13Z
-tags: [ programming, SQLite, Google, Microsoft, программирование, PAYcast, Outlook ]
+tags: [ "Microsoft", "программирование", "programming", "SQLite", "Google", "PAYcast", "Outlook" ]
 draft: false
 ---
 <ul>

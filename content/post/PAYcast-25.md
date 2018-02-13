@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 25"
 date: 2011-09-14T12:28:21Z
-tags: [ fishque, HTC, Blizzard, Apple, Windows phone 7, Google, PAYcast, fitness, IPhone, diablo, internet security ]
+tags: [ "fishque", "fitness", "HTC", "Windows phone 7", "Blizzard", "diablo", "IPhone", "Google", "PAYcast", "Apple", "internet security" ]
 draft: false
 ---
 <ul>

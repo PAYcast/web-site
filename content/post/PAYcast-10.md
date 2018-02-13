@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 10"
 date: 2011-01-22T10:35:09Z
-tags: [ SharpDevelop, Razor, IDE, Similar Sites, Microsoft, PAYcast, цитаты, MVC, Minecraft, конкурс ]
+tags: [ "SharpDevelop", "MVC", "Microsoft", "конкурс", "Razor", "IDE", "цитаты", "Similar Sites", "PAYcast", "Minecraft" ]
 draft: false
 ---
 <ul>

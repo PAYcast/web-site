@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 36"
 date: 2012-01-16T04:44:18Z
-tags: [ fishque, workspace, Microsoft, PAYcast, razer, Motorola, Kinect, WolframAlpha, project fiona ]
+tags: [ "fishque", "razer", "Microsoft", "project fiona", "workspace", "PAYcast", "WolframAlpha", "Motorola", "Kinect" ]
 draft: false
 ---
 <ul>

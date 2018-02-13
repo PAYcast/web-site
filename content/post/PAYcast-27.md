@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 27"
 date: 2011-09-30T14:13:05Z
-tags: [ amazon, Delicious, Flash, OS X, SSL, Mozilla, Nielsen, Microsoft, PAYcast, Firefox, Kindle, Android, Minecraft, iOS ]
+tags: [ "Kindle", "amazon", "Android", "Nielsen", "iOS", "Mozilla", "Microsoft", "OS X", "Flash", "SSL", "Firefox", "PAYcast", "Minecraft", "Delicious" ]
 draft: false
 ---
 <ul>

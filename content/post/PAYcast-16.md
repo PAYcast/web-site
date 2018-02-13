@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 16"
 date: 2011-04-08T15:55:51Z
-tags: [ cloud drive, amazon, Яндекс, cloud player, it, +1, near field communication, Google, yandex, PAYcast, lenovo, agile ]
+tags: [ "it", "cloud drive", "amazon", "+1", "cloud player", "near field communication", "Яндекс", "yandex", "Google", "lenovo", "PAYcast", "agile" ]
 draft: false
 ---
 <ul>

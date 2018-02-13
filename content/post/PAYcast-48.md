@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 48"
 date: 2012-06-25T08:31:13Z
-tags: [ ASP.NET, Smart Glass, SPDY, OS X, ConsolR, Visual Studio, Apple, WWDC, MacBook, Microsoft, PAYcast, Firefox, development, JSX, javascript, iOS ]
+tags: [ "iOS", "Microsoft", "javascript", "OS X", "ConsolR", "WWDC", "Smart Glass", "SPDY", "Firefox", "PAYcast", "JSX", "Visual Studio", "Apple", "ASP.NET", "MacBook", "development" ]
 draft: false
 ---
 <ul>

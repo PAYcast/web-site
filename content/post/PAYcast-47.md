@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 47"
 date: 2012-06-04T08:19:34Z
-tags: [ silk, phonedeck, Яндекс, gadgets, programming, music, mono, yandex, monodevelop, leap, программирование, PAYcast, silverlight, музыка, semantic web, moonlight ]
+tags: [ "music", "silverlight", "музыка", "mono", "monodevelop", "Яндекс", "leap", "yandex", "gadgets", "программирование", "programming", "phonedeck", "PAYcast", "semantic web", "moonlight", "silk" ]
 draft: false
 ---
 <ul>

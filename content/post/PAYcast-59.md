@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 59"
 date: 2013-04-23T06:31:14Z
-tags: [ diff displays, features, hidden, Apple, iphone 5, PAYcast, display ]
+tags: [ "hidden", "diff displays", "features", "iphone 5", "display", "PAYcast", "Apple" ]
 draft: false
 ---
 <p>Очередной выпуск PAYcast про мониторы и телефоны.</p>

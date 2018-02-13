@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 4"
 date: 2010-11-28T08:47:18Z
-tags: [ Яндекс, Bill Plympton, Apple, yandex, PAYcast, imhonet, WoW, Имхонет, agile, film, iOS, Билл Плимптон ]
+tags: [ "imhonet", "Билл Плимптон", "Bill Plympton", "iOS", "Имхонет", "Яндекс", "yandex", "film", "WoW", "PAYcast", "Apple", "agile" ]
 draft: false
 ---
 <ul>

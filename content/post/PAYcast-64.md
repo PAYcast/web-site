@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 64"
 date: 2015-04-13T08:40:18Z
-tags: [ Instacast, akka, overcast, clrium, PAYcast, .NET, JPoint, threadlocal ]
+tags: [ "overcast", "clrium", "akka", "threadlocal", ".NET", "Instacast", "PAYcast", "JPoint" ]
 draft: false
 ---
 <ul>

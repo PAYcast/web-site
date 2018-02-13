@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 26 (Windows 8)"
 date: 2011-09-16T16:03:41Z
-tags: [ Eloquera, Microsoft, PAYcast, .NET, Windows 8 ]
+tags: [ "Microsoft", ".NET", "Eloquera", "PAYcast", "Windows 8" ]
 draft: false
 ---
 <ul>

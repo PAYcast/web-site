@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 17"
 date: 2011-04-16T13:04:55Z
-tags: [ CodeReview, fishque, ICQ, Mail.ru Group, podcast, StackOverflow, Codefirst, Microsoft, PAYcast ]
+tags: [ "Codefirst", "CodeReview", "fishque", "StackOverflow", "Microsoft", "Mail.ru Group", "ICQ", "PAYcast", "podcast" ]
 draft: false
 ---
 <ul>

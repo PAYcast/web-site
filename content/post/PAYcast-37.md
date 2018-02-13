@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 37"
 date: 2012-01-23T06:50:49Z
-tags: [ pyhon, db, базы данных, образование, PIPA, education, PAYcast, php, CS, ruby, SOPA ]
+tags: [ "CS", "SOPA", "базы данных", "PIPA", "php", "ruby", "education", "образование", "pyhon", "db", "PAYcast" ]
 draft: false
 ---
 <ul>

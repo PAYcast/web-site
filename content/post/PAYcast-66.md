@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 66"
 date: 2016-05-18T10:08:12Z
-tags: [ cmdr, Яндекс, IDE, git-flow, movies, git, PAYcast, svn, Deadpool, new job, agile, job interview ]
+tags: [ "new job", "movies", "Яндекс", "Deadpool", "cmdr", "job interview", "git", "IDE", "PAYcast", "git-flow", "svn", "agile" ]
 draft: false
 ---
 <ul>

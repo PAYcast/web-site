@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 61"
 date: 2014-02-03T07:00:02Z
-tags: [ asus, Razor, gadgets, sharp, mtg, car, PAYcast, bmw, lenovo, CES ]
+tags: [ "car", "mtg", "Razor", "gadgets", "CES", "bmw", "lenovo", "PAYcast", "sharp", "asus" ]
 draft: false
 ---
 <p>Новый выпуск PAYcast про новинки <a href="http://paleofuture.gizmodo.com/heres-how-ridiculous-this-years-ces-will-look-in-2034-1495500665">CES 2014</a>.</p>

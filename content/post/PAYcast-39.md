@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 39"
 date: 2012-02-08T05:27:03Z
-tags: [ Dart, fishque, tabs vs spaces, Mozilla, Google, PAYcast, Firefox, javascript, hastebin, trends ]
+tags: [ "fishque", "Mozilla", "javascript", "trends", "hastebin", "tabs vs spaces", "Dart", "Google", "Firefox", "PAYcast" ]
 draft: false
 ---
 <ul>

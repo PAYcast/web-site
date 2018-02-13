@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 35 (To code or not)"
 date: 2011-12-11T23:31:19Z
-tags: [ Google Chrome, fishque, browser, programming, Twitter, PAYcast, Xbox ]
+tags: [ "fishque", "Xbox", "Twitter", "browser", "programming", "PAYcast", "Google Chrome" ]
 draft: false
 ---
 <ul>

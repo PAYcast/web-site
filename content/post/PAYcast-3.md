@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 3"
 date: 2010-11-17T21:57:43Z
-tags: [ Ходячие мертвецы, bookmate.ru, Due Date, Skyline, Игромир, The Walking Dead, Apple, Скайлайн, PAYcast, silverlight, Впритык, film, iOS ]
+tags: [ "Ходячие мертвецы", "silverlight", "Игромир", "iOS", "Скайлайн", "Due Date", "Skyline", "Впритык", "film", "The Walking Dead", "bookmate.ru", "PAYcast", "Apple" ]
 draft: false
 ---
 <ul>

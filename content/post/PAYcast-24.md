@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 24"
 date: 2011-09-04T18:56:57Z
-tags: [ fishque, CryEngine 3, sourcemaking, HTC, patterns, Twitter, Apple, Mozilla, Nokia, Samsung ChatON, CryTek, PAYcast, Samsung, Steven Jobs ]
+tags: [ "Steven Jobs", "fishque", "HTC", "Mozilla", "Samsung ChatON", "Twitter", "Nokia", "CryTek", "Samsung", "CryEngine 3", "PAYcast", "patterns", "sourcemaking", "Apple" ]
 draft: false
 ---
 <p>Выпуск с кучей приятного: поздравления с 1 сентября, новый конкурс и первый женский голос в этом подкасте!</p>

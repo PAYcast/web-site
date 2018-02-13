@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 58 (Consumer safe)"
 date: 2013-04-02T09:32:45Z
-tags: [ fishque, mailbox, Google, flipboard, PAYcast, Google Reader, RSS ]
+tags: [ "RSS", "fishque", "Google Reader", "mailbox", "Google", "flipboard", "PAYcast" ]
 draft: false
 ---
 <p>Новый выпуск PAYcast&#8217;a о том, как современные гики потребляют контент.</p>

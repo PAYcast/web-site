@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 28 (iPhone 4S)"
 date: 2011-10-11T07:44:08Z
-tags: [ HTC, Apple, iPod, Siri, PAYcast, IPhone, Steven Jobs, iCloud, iOS ]
+tags: [ "Steven Jobs", "iOS", "HTC", "Siri", "iPod", "iCloud", "IPhone", "PAYcast", "Apple" ]
 draft: false
 ---
 <ul>

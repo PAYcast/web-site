@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 45"
 date: 2012-04-19T10:04:54Z
-tags: [ fishque, contest, Google, facebook, PAYcast, Instagram, sun/com, google plus, Kinect, Java, WolframAlpha, Oracle ]
+tags: [ "fishque", "contest", "Oracle", "Java", "sun/com", "facebook", "Google", "google plus", "PAYcast", "Instagram", "WolframAlpha", "Kinect" ]
 draft: false
 ---
 <ul>

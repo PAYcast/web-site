@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 55"
 date: 2012-12-17T06:44:03Z
-tags: [ PAYcast, internet security, programming, программирование ]
+tags: [ "PAYcast", "internet security", "programming", "программирование" ]
 draft: false
 ---
 <ul>

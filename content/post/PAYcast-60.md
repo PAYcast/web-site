@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 60"
 date: 2014-01-16T10:17:36Z
-tags: [ gibbon, ZTE, supersonic, playstation, yotaphone, PAYcast, steam, Xbox, CES, phone ]
+tags: [ "Xbox", "gibbon", "steam", "playstation", "phone", "ZTE", "CES", "supersonic", "yotaphone", "PAYcast" ]
 draft: false
 ---
 <p>Новый выпуск PAYcast после большого перерыва.</p>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 57 (Manipulative)"
 date: 2013-03-18T04:00:06Z
-tags: [ science, наука, myo, leap, Microsoft, PAYcast, Kinect ]
+tags: [ "наука", "Microsoft", "science", "leap", "myo", "PAYcast", "Kinect" ]
 draft: false
 ---
 <p>Новый выпуск PAYcast&#8217;a, полностью посвещённый непонятным манипуляторам ваших компьютеров.</p>

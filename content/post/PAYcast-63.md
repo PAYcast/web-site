@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 63"
 date: 2015-03-15T17:53:22Z
-tags: [ ASP.NET, Microsoft, PAYcast, .NET, javascript ]
+tags: [ "Microsoft", "javascript", ".NET", "PAYcast", "ASP.NET" ]
 draft: false
 ---
 <ul>

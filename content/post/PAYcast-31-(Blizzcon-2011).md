@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 31 (Blizzcon 2011)"
 date: 2011-11-01T10:17:41Z
-tags: [ Bing, Gnome, Blizzard, Nokia, Blizzcon, Microsoft, PAYcast, Firefox, Starcraft, WoW, diablo, Ubuntu, Unity ]
+tags: [ "Blizzard", "Ubuntu", "Microsoft", "Nokia", "Starcraft", "Bing", "diablo", "WoW", "Blizzcon", "Firefox", "PAYcast", "Gnome", "Unity" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 62"
 date: 2014-03-06T10:43:42Z
-tags: [ github, coder mind, tests, mutation tests, geek picnic, web, PAYcast, atom ]
+tags: [ "geek picnic", "github", "coder mind", "atom", "mutation tests", "PAYcast", "web", "tests" ]
 draft: false
 ---
 <ul>

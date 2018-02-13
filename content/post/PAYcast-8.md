@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 8"
 date: 2011-01-08T14:06:08Z
-tags: [ 2011, Apple, unsocial, Microsoft, PAYcast, Google Reader, Mac App Store, RSS, Kinect, CES, Windows, Surface ]
+tags: [ "2011", "RSS", "Google Reader", "Microsoft", "Windows", "Mac App Store", "CES", "PAYcast", "unsocial", "Surface", "Apple", "Kinect" ]
 draft: false
 ---
 <ul>

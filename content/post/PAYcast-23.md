@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 23"
 date: 2011-08-24T07:40:59Z
-tags: [ iPad, Яндекс, Twitter, Google, yandex, nintendo, facebook, PAYcast, Motorola, google plus, development, yahoo, games ]
+tags: [ "nintendo", "Twitter", "Яндекс", "iPad", "yandex", "facebook", "Google", "google plus", "PAYcast", "games", "yahoo", "Motorola", "development" ]
 draft: false
 ---
 <ul>

@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 14"
 date: 2011-03-13T20:46:22Z
-tags: [ fishque, asus, iPad, The Adjustment Bureau, I Am Number Four, dilbert, xkcd, Точка бифуркации, Я четвертый, Apple, Санктум, The King's Speech, oatmeal, Меняющие реальность, PAYcast, point-b, bash.org.ru, Король говорит, geek&poke, Черный лебедь, Black Swan, film, Sanctum ]
+tags: [ "The King's Speech", "fishque", "The Adjustment Bureau", "I Am Number Four", "Король говорит", "Меняющие реальность", "Black Swan", "Я четвертый", "dilbert", "point-b", "iPad", "film", "Санктум", "xkcd", "Черный лебедь", "Sanctum", "oatmeal", "geek&poke", "PAYcast", "asus", "Apple", "bash.org.ru", "Точка бифуркации" ]
 draft: false
 ---
 <ul>

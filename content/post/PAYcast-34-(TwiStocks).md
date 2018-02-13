@@ -1,7 +1,7 @@
 ---
 title: "PAYcast 34 (TwiStocks)"
 date: 2011-12-05T10:01:48Z
-tags: [ stocks, gadgets, little printer, gaming, sports, Twitter, mutitouch, hologram, PAYcast, razer ]
+tags: [ "razer", "sports", "Twitter", "stocks", "hologram", "little printer", "gadgets", "PAYcast", "gaming", "mutitouch" ]
 draft: false
 ---
 <ul>
