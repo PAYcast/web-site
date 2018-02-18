@@ -1,15 +1,10 @@
 baseURL = "http://paycast.ru/"
 languageCode = "ru-ru"
-title = "Paycast"
+title = "PAYcast"
 theme = "minimal"
 pygmentsStyle = "native"
 
 [[menu.main]]
     url = "/"
-    name = "Домой"
+    name = "PAYcast"
     weight = 1
-
-[[menu.main]]
-    url = "/post/"
-    name = "Архив выпусков"
-    weight = 2
