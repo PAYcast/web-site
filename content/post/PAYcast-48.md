@@ -15,8 +15,5 @@ podcast_type: "audio/mpeg"
 <li>Интересный анонс от Microsoft для развлечений &#8212; <a href="http://www.buzzfocus.com/2012/06/04/e3-2012-microsoft-smart-glass-kinect-sports/" target="_blank">Smart Glass</a></li>
 <li>WWDC 2012 &#8212; <a href="http://www.appleinsider.ru/wwdc-events/itogi-wwdc-2012-novye-macbook-air-pro-os-x-mountain-lion-i-ios-6.html" target="_blank">Новые iOS, OS X, MacBook&#8217;и</a></li>
 </ul>
-<p><span id="more-608"></span><br />
-<small>Music: &#171;My First Time&#187; Mary Poppins and the Dubitative Sex Toys Boys</small></p>
-<p><small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small></p>
 
      

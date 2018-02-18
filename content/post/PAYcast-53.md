@@ -14,8 +14,5 @@ podcast_type: "audio/mpeg"
 <li>Необычный взгляд на читаемость кода от <a href="http://vimeo.com/49484333?" target="_blank">весёлой докладчицы</a></li>
 <li><b>Про всякое: </b>Обнаружена новая экзопланета &#8212; ближайшая из всех</li>
 </ul>
-<p><span id="more-666"></span><br />
-<small>Music: &#171;My First Time&#187; Mary Poppins and the Dubitative Sex Toys Boys</small></p>
-<p><small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small></p>
 
      

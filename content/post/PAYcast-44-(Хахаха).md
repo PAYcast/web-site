@@ -14,8 +14,5 @@ podcast_type: "audio/mpeg"
 <li><strong>Тема выпуска</strong>: <a href="http://habrahabr.ru/post/141151/" target="_blank">Всякие</a> <a href="http://habrahabr.ru/post/141171/" target="_blank">шуточки</a> на первое апреля. В том числе, <a href="http://eu.blizzard.com/en-gb/news/?d=2012-4#31643" target="_blank">от Blizzard</a></li>
 <li>Небольшой оффтоп про будущее вселенной WoW, енотов и страусов.</li>
 </ul>
-<p><span id="more-548"></span><br />
-<small>Music: &#171;My First Time&#187; Mary Poppins and the Dubitative Sex Toys Boys</small></p>
-<p><small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small></p>
 
      

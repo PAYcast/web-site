@@ -14,8 +14,5 @@ podcast_type: "audio/mpeg"
 <li>Такой долгожданный выход <a href="http://www.gamer.ru/diablo-3/tri-tysyachi-chertey-obzor-diablo-iii" target="_blank">Diablo III</a></li>
 <li>Осуждаем <a href="http://www.theverge.com/2012/5/8/3006233/instacast-2-0-hands-on-features-price" target="_blank">ужасное поведение Instacast</a></li>
 </ul>
-<p><span id="more-577"></span><br />
-<small>Music: &#171;My First Time&#187; Mary Poppins and the Dubitative Sex Toys Boys</small></p>
-<p><small><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</small></p>
 
      
