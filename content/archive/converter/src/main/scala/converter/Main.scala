@@ -4,9 +4,11 @@ import java.nio.file.{ Files, Paths, StandardOpenOption }
 import java.text.SimpleDateFormat
 import java.util.Date
 
-import cats.effect.IO
+import cats.effect.{ Effect, IO, Sync }
 import cats.instances.list._
 import cats.syntax.either._
+import cats.syntax.flatMap._
+import cats.syntax.functor._
 import cats.syntax.option._
 import cats.syntax.traverse._
 import io.circe.Decoder
@@ -15,6 +17,10 @@ import io.circe.parser._
 import scala.io.Source
 
 object Main extends App {
+  new Main[IO].apply().unsafeRunSync()
+}
+
+class Main[F[_]: Effect] {
 
   private val dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
   private val creativeCommons = Licence(
@@ -23,7 +29,6 @@ object Main extends App {
     url = "http://creativecommons.org/licenses/by-nc-sa/3.0/",
     description = "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License")
 
-  private def decodeJson[A: Decoder](input: String) = IO.fromEither(decode[A](input))
   private def toAwsUrl(url: String) = "https://s3-eu-west-1.amazonaws.com/paycast" + url.substring(url.lastIndexOf('/'))
 
   private def convertToMarkdown(post: Post) =
@@ -38,17 +43,17 @@ object Main extends App {
        |${post.body.showNotes}
      """.stripMargin
 
-  private def createPost(post: Post) = IO {
+  private def createPost(post: Post) = Sync[F].delay {
     val fileName = post.title.replace(' ', '-')
     val markdown = convertToMarkdown(post)
     Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8"), StandardOpenOption.TRUNCATE_EXISTING)
   }
 
-  (for {
-    input <- IO(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
-    posts <- decodeJson[List[Post]](input)
+  def apply(): F[Unit] = for {
+    input <- Sync[F].delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
+    posts <- Sync[F].fromEither(decode[List[Post]](input))
     _     <- posts.traverse(createPost)
-  } yield ()).unsafeRunSync()
+  } yield ()
 
   case class Enclosure(length: Long, url: String, `type`: String = "audio/mpeg")
   object Enclosure {
