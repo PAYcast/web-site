@@ -1,4 +1,4 @@
-baseURL = "http://paycast.ru/"
+baseURL = "https://paycast.ru/"
 languageCode = "ru-ru"
 title = "PAYcast"
 theme = "minimal"
