@@ -9,7 +9,6 @@ import cats.instances.list._
 import cats.syntax.either._
 import cats.syntax.flatMap._
 import cats.syntax.functor._
-import cats.syntax.option._
 import cats.syntax.traverse._
 import io.circe.Decoder
 import io.circe.parser._
