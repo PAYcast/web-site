@@ -4,7 +4,7 @@ import java.nio.file.{ Files, Paths, StandardOpenOption }
 import java.text.SimpleDateFormat
 import java.util.Date
 
-import cats.effect.{ Effect, IO, Sync }
+import cats.effect.{ Effect, ExitCode, IO, IOApp, Sync }
 import cats.instances.list._
 import cats.syntax.either._
 import cats.syntax.flatMap._
@@ -16,8 +16,11 @@ import io.circe.parser._
 
 import scala.io.Source
 
-object Main extends App {
-  new Main[IO].apply().unsafeRunSync()
+object Main extends IOApp {
+
+  override def run(args: List[String]): IO[ExitCode] = 
+    new Main[IO].apply().as(ExitCode.Success)
+
 }
 
 class Main[F[_]: Effect] {
@@ -72,10 +75,9 @@ class Main[F[_]: Effect] {
       Either.catchNonFatal(issuedDateFormat.parse(str)).leftMap(_ => "Date")
     }
     implicit val BodyDecoder: Decoder[Body] = Decoder.decodeString.emap { str =>
-      str.indexOf("""<p><span id="more-""").some
-        .filter(_ >= 0)
-        .fold(Body(str)) { i => Body(str.substring(0, i)) }
-        .asRight
+      Either.catchNonFatal {
+        Body(str.split("""<p><span id="more-""").head)
+      }.leftMap(_ => "Body")
     }
     implicit val PostDecoder: Decoder[Post] = Decoder.forProduct9("_title", "_guid", "_link", "_enclosures", "_body", "_itemtime", "_categories", "_comments", "_issued")(Post.apply)
   }
