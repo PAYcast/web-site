@@ -1,6 +1,6 @@
-val CirceVersion = "0.9.3"
-val CatsVersion = "1.1.0"
-val CatsEffectVersion = "1.0.0-RC2-8ed6e71"
+val CirceVersion      = "0.9.3"
+val CatsVersion       = "1.1.0"
+val CatsEffectVersion = "1.0.0-RC2-68b7bd9"
 
 name := "converter"
 
@@ -13,5 +13,7 @@ libraryDependencies ++= Seq(
   "io.circe"      %% "circe-generic" % CirceVersion,
   "io.circe"      %% "circe-parser"  % CirceVersion,
   "org.typelevel" %% "cats-core"     % CatsVersion,
-  "org.typelevel" %% "cats-effect"   % CatsEffectVersion,
+  "org.typelevel" %% "cats-effect"   % CatsEffectVersion
 )
+
+scalafmtOnCompile := true

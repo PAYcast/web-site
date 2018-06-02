@@ -17,7 +17,7 @@ import scala.io.Source
 
 object Main extends IOApp {
 
-  override def run(args: List[String]): IO[ExitCode] = 
+  override def run(args: List[String]): IO[ExitCode] =
     new Main[IO].apply().as(ExitCode.Success)
 
 }
@@ -29,7 +29,8 @@ class Main[F[_]: Effect] {
     name = "Creative Commons License",
     img = "http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png",
     url = "http://creativecommons.org/licenses/by-nc-sa/3.0/",
-    description = "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License")
+    description = "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+  )
 
   private def toAwsUrl(url: String) = "https://s3-eu-west-1.amazonaws.com/paycast" + url.substring(url.lastIndexOf('/'))
 
@@ -51,11 +52,12 @@ class Main[F[_]: Effect] {
     Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8"), StandardOpenOption.TRUNCATE_EXISTING)
   }
 
-  def apply(): F[Unit] = for {
-    input <- Sync[F].delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
-    posts <- Sync[F].fromEither(decode[List[Post]](input))
-    _     <- posts.traverse(createPost)
-  } yield ()
+  def apply(): F[Unit] =
+    for {
+      input <- Sync[F].delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
+      posts <- Sync[F].fromEither(decode[List[Post]](input))
+      _     <- posts.traverse(createPost)
+    } yield ()
 
   case class Enclosure(length: Long, url: String, `type`: String = "audio/mpeg")
   object Enclosure {
@@ -67,7 +69,15 @@ class Main[F[_]: Effect] {
                   music: String = "<<My First Time>> Mary Poppins and the Dubitative Sex Toys Boys",
                   licence: Licence = creativeCommons)
 
-  case class Post(title: String, guid: String, link: String, enclosures: List[Enclosure], body: Body, itemTime: Long, categories: Set[String], comments: String, issued: Date)
+  case class Post(title: String,
+                  guid: String,
+                  link: String,
+                  enclosures: List[Enclosure],
+                  body: Body,
+                  itemTime: Long,
+                  categories: Set[String],
+                  comments: String,
+                  issued: Date)
   object Post {
     private val issuedDateFormat: SimpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
     implicit val DateDecoder: Decoder[Date] = Decoder.decodeString.emap { str =>
@@ -78,7 +88,15 @@ class Main[F[_]: Effect] {
         Body(str.split("""<p><span id="more-""").head)
       }.leftMap(_ => "Body")
     }
-    implicit val PostDecoder: Decoder[Post] = Decoder.forProduct9("_title", "_guid", "_link", "_enclosures", "_body", "_itemtime", "_categories", "_comments", "_issued")(Post.apply)
+    implicit val PostDecoder: Decoder[Post] = Decoder.forProduct9("_title",
+                                                                  "_guid",
+                                                                  "_link",
+                                                                  "_enclosures",
+                                                                  "_body",
+                                                                  "_itemtime",
+                                                                  "_categories",
+                                                                  "_comments",
+                                                                  "_issued")(Post.apply)
   }
 
 }
