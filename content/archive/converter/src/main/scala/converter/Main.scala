@@ -1,6 +1,6 @@
 package converter
 
-import java.nio.file.{ Files, Paths, StandardOpenOption }
+import java.nio.file.{ Files, Paths }
 import java.text.SimpleDateFormat
 import java.util.Date
 
@@ -17,12 +17,15 @@ import scala.io.Source
 
 object Main extends IOApp {
 
+  def apply[F[_]: Effect]: Main[F] = new Main[F]
+
   override def run(args: List[String]): IO[ExitCode] =
-    new Main[IO].apply().as(ExitCode.Success)
+    Main[IO].exec.as(ExitCode.Success)
 
 }
 
 class Main[F[_]: Effect] {
+  private val S = Sync[F]
 
   private val dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
   private val creativeCommons = Licence(
@@ -46,18 +49,17 @@ class Main[F[_]: Effect] {
        |${post.body.showNotes}
      """.stripMargin
 
-  private def createPost(post: Post) = Sync[F].delay {
+  private def createPost(post: Post) = S.delay {
     val fileName = post.title.replace(' ', '-')
     val markdown = convertToMarkdown(post)
-    Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8"), StandardOpenOption.TRUNCATE_EXISTING)
+    Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8"))
   }
 
-  def apply(): F[Unit] =
-    for {
-      input <- Sync[F].delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
-      posts <- Sync[F].fromEither(decode[List[Post]](input))
-      _     <- posts.traverse(createPost)
-    } yield ()
+  val exec: F[Unit] = S.suspend(for {
+    input <- S.delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
+    posts <- S.fromEither(decode[List[Post]](input))
+    _     <- posts.traverse(createPost)
+  } yield ())
 
   case class Enclosure(length: Long, url: String, `type`: String = "audio/mpeg")
   object Enclosure {

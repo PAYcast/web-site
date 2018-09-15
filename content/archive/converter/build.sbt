@@ -1,6 +1,6 @@
 val CirceVersion      = "0.9.3"
-val CatsVersion       = "1.1.0"
-val CatsEffectVersion = "1.0.0-RC2-68b7bd9"
+val CatsVersion       = "1.4.0"
+val CatsEffectVersion = "1.0.0"
 
 name := "converter"
 
