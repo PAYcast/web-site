@@ -1,31 +1,21 @@
 package converter
 
-import java.nio.file.{ Files, Paths }
+import java.nio.file.{Files, Paths}
 import java.text.SimpleDateFormat
 import java.util.Date
 
-import cats.effect.{ Effect, ExitCode, IO, IOApp, Sync }
+import cats.effect.{ExitCode, IO, IOApp, Sync}
 import cats.instances.list._
 import cats.syntax.either._
 import cats.syntax.flatMap._
 import cats.syntax.functor._
 import cats.syntax.traverse._
 import io.circe.Decoder
-import io.circe.parser._
+import io.circe.parser.decode
 
 import scala.io.Source
 
 object Main extends IOApp {
-
-  def apply[F[_]: Effect]: Main[F] = new Main[F]
-
-  override def run(args: List[String]): IO[ExitCode] =
-    Main[IO].exec.as(ExitCode.Success)
-
-}
-
-class Main[F[_]: Effect] {
-  private val S = Sync[F]
 
   private val dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
   private val creativeCommons = Licence(
@@ -35,31 +25,33 @@ class Main[F[_]: Effect] {
     description = "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
   )
 
-  private def toAwsUrl(url: String) = "https://s3-eu-west-1.amazonaws.com/paycast" + url.substring(url.lastIndexOf('/'))
+  override def run(args: List[String]): IO[ExitCode] =
+    runF[IO](args).as(ExitCode.Success)
 
+  def runF[F[_]](args: List[String])(implicit F: Sync[F]): F[Unit] =
+    for {
+      input <- F.delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
+      posts <- decode[List[Post]](input).liftTo[F]
+      _ <- posts.traverse(createPost(_))
+    } yield ()
+
+  private def createPost[F[_]](post: Post)(implicit F: Sync[F]): F[Unit] = {
+    val fileName = post.title.replace(' ', '-')
+    val markdown = convertToMarkdown(post)
+    F.delay(Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8")))
+  }
   private def convertToMarkdown(post: Post) =
     s"""---
        |title: "${post.title}"
        |date: ${dateFormat.format(post.issued)}
-       |tags: [ ${post.categories.map(c => s""""$c"""").mkString(", ")} ]
+       |tags: ${post.categories.mkString("[ \"", "\", \"", "\" ]")}
        |draft: false
        |podcast_file: "${toAwsUrl(post.enclosures.head.url)}"
        |podcast_type: "${post.enclosures.head.`type`}"
        |---
        |${post.body.showNotes}
      """.stripMargin
-
-  private def createPost(post: Post) = S.delay {
-    val fileName = post.title.replace(' ', '-')
-    val markdown = convertToMarkdown(post)
-    Files.write(Paths.get(s"../../post/$fileName.md"), markdown.getBytes("UTF-8"))
-  }
-
-  val exec: F[Unit] = S.suspend(for {
-    input <- S.delay(Source.fromFile("../paycast_archive.json", "UTF-8").mkString)
-    posts <- S.fromEither(decode[List[Post]](input))
-    _     <- posts.traverse(createPost)
-  } yield ())
+  private def toAwsUrl(url: String) = "https://s3-eu-west-1.amazonaws.com/paycast" + url.substring(url.lastIndexOf('/'))
 
   case class Enclosure(length: Long, url: String, `type`: String = "audio/mpeg")
   object Enclosure {
@@ -81,14 +73,12 @@ class Main[F[_]: Effect] {
                   comments: String,
                   issued: Date)
   object Post {
-    private val issuedDateFormat: SimpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
+    private val issuedDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'")
     implicit val DateDecoder: Decoder[Date] = Decoder.decodeString.emap { str =>
       Either.catchNonFatal(issuedDateFormat.parse(str)).leftMap(_ => "Date")
     }
-    implicit val BodyDecoder: Decoder[Body] = Decoder.decodeString.emap { str =>
-      Either.catchNonFatal {
-        Body(str.split("""<p><span id="more-""").head)
-      }.leftMap(_ => "Body")
+    implicit val BodyDecoder: Decoder[Body] = Decoder.decodeString.map { str =>
+      Body(str.split("""<p><span id="more-""").head)
     }
     implicit val PostDecoder: Decoder[Post] = Decoder.forProduct9("_title",
                                                                   "_guid",
@@ -100,5 +90,4 @@ class Main[F[_]: Effect] {
                                                                   "_comments",
                                                                   "_issued")(Post.apply)
   }
-
 }

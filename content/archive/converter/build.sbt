@@ -1,12 +1,12 @@
-val CirceVersion      = "0.9.3"
-val CatsVersion       = "1.4.0"
-val CatsEffectVersion = "1.0.0"
+val CirceVersion      = "0.11.1"
+val CatsVersion       = "1.6.1"
+val CatsEffectVersion = "1.3.1"
 
 name := "converter"
 
 version := "0.1"
 
-scalaVersion := "2.12.6"
+scalaVersion := "2.12.8"
 
 libraryDependencies ++= Seq(
   "io.circe"      %% "circe-core"    % CirceVersion,
